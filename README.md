@@ -1,5 +1,5 @@
 # Classification-Churners
-This repository contains a full end-to-end data science pipeline developed to analyze and predict customer attrition (churn) using a real-world credit card customer dataset.
+This repository contains a full end-to-end data science pipeline developed to analyze and predict customer attrition (churn) using the dataset Bank Churners, which I downloaded from Kaggle. Specifically, it comes from the Credit Card Customers dataset created by Sakshi Goyal.
 The project includes data preprocessing, exploratory data analysis, feature engineering, class imbalance handling, feature selection, model training, hyperparameter tuning, and performance evaluation.
 
 All code is implemented in the notebook: churn_prediction.ipynb.
